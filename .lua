@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
+require(100263845596551)("Minos_Prime1PRank", ColorSequence.new(Color3.fromRGB(71, 148, 253), Color3.fromRGB(71, 253, 160)), "Standard")
 --require(5227036455).rk("Minos_Prime1PRank")
 --[[game.Players:BanAsync(
 {
