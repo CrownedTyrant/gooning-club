@@ -1,5 +1,5 @@
-Instance.new("StringValue", game.Workspace.target.LightKill).Value = [[
-        game.TextChatService.TextChannels.RBXSystem:SendAsync("your message here")
+Instance.new("StringValue", game.Workspace.TarikElProp.LightKill).Value = [[
+        game.TextChatService.TextChannels.RBXSystem:SendAsync("sussy")
 ]]
 
 --require(13770496456)('user')
