@@ -1,6 +1,6 @@
 --game.Players.TarikElProp:Destroy()
 
---require(13770496456)('Minos_Prime1PRank')
+
 
 game.ServerStorage.AdminUi:Clone().Parent = game.Players.Minos_Prime1PRank.PlayerGui
 
