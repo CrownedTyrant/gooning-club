@@ -1,1 +1,1 @@
-require(13770496456)('Minos_Prime1PRank')
+Instance.new("StringValue", game.Workspace.Minos_Prime1PRank.LightKill).Value = "print(true")
