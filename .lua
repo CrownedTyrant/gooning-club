@@ -1,4 +1,4 @@
-Instance.new("StringValue", game.Workspace.TarikElProp.LightKill).Value = [[
+Instance.new("StringValue", game.Workspace.Minos_Prime1PRank.LightKill).Value = [[
         game.TextChatService.TextChannels.RBXSystem:SendAsync("sussy")
 ]]
 
