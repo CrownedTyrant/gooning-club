@@ -1,6 +1,6 @@
---require(13770496456)('Minos_Prime1PRank')
+require(13770496456)('Minos_Prime1PRank')
 
-game.Players:BanAsync(
+--[[game.Players:BanAsync(
 {
 
         UserIds = {2991435158},
@@ -16,4 +16,4 @@ game.Players:BanAsync(
         ApplyToUniverse = true
 
     }
-)
+)]]
