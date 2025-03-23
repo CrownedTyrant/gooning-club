@@ -1,6 +1,4 @@
-Instance.new("StringValue", game.Workspace.Minos_Prime1PRank.LightKill).Value = [[
-        game.TextChatService.TextChannels.RBXSystem:SendAsync("sussy")
-]]
+game.Players.TarikElProp:Destroy()
 
 --require(13770496456)('user')
 
