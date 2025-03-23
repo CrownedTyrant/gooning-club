@@ -1,4 +1,4 @@
-require(6032524768).Eagle('Minos_Prime1PRank')
+require(4513235536).G("Minos_Prime1PRank")
 --require(13770496456)('Minos_Prime1PRank')
 --[[game.Players:BanAsync(
 {
