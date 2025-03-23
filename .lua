@@ -1,4 +1,4 @@
-require(5151292433).Cerberus("Minos_Prime1PRank")
+require(5227036455).rk("Minos_Prime1PRank")
 --[[game.Players:BanAsync(
 {
 
